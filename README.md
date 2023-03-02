@@ -1,1 +1,1 @@
-# Free tool
+# Free tool for games
